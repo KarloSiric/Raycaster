@@ -1,0 +1,16 @@
+# Build artifacts
+*.o
+*.out
+raycast
+*.dSYM/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+*.swp
+*.swo
+
+# Claude
+.claude/
