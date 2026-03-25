@@ -1,6 +1,9 @@
 #ifndef __SHARED_H__
 #define __SHARED_H__ 
 
+#define global                  static
+#define local                   static
+
 #define FPS                     60
 #define FRAME_TIME              ( 1000 / FPS )
 
